@@ -1,1 +1,2 @@
 # jaris
+JARVIS (Just A Rather Very Intelligent System) in Python is an AI-powered virtual assistant that can perform tasks such as managing schedules, providing information, controlling IoT devices, and responding to voice or text commands. Built using Python libraries like SpeechRecognition, Pyttsx3 (text-to-speech), and WolframAlpha (for factual queries), JARVIS can automate tasks like sending emails, searching the web, setting reminders, playing music, or controlling smart devices. Its flexibility allows for integration with API
